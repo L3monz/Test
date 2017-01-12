@@ -11,6 +11,7 @@ namespace Test
     public class Animation
     {
         //Define a rectangle that will represent the current frame being drawn
+        //Test to push
         public Rectangle source_rect;
         //Variables
         private int x, y, rect_width, rect_height, frame_count, frames;
